@@ -8,6 +8,6 @@
 This repository contains my followup on the `helloworld-tonic` tutorial  for
 a quick view on how it works and how it's used to implement gRPC solutions.
 
-You can find the original tutorial here.
+You can find the original [tutorial here][1].
 
 [1]: https://github.com/hyperium/tonic/blob/master/examples/helloworld-tutorial.md
